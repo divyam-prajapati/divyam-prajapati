@@ -1,9 +1,9 @@
 # Hello, world! 👋, I'm ```DIVYAM PRAJAPATI```
-
+<!-- Change the banner -->
 ![Profile Banner Image](https://github.com/divyam-prajapati/divyam-prajapati/blob/main/Banner.jpeg?raw=true)
 
-## 🚀 About Me
-
+## 🚀 About Me 
+<!-- Change the intro text -->
 I'm a passionate Computer Science graduate student at The University of Texas at Dallas, with a strong background in Machine Learning, Web Development, and Software Engineering. I thrive on solving complex problems and building innovative solutions. Currently, I'm on the lookout for exciting full-time opportunities in the tech industry.
 
 - 📍 Based in Dallas, Texas
@@ -23,6 +23,7 @@ I'm a passionate Computer Science graduate student at The University of Texas at
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
+<!-- Add more frameworks and libraries -->
 ### Frameworks & Libraries
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
@@ -41,7 +42,7 @@ I'm a passionate Computer Science graduate student at The University of Texas at
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat)
 
 ## 🏅 Certifications
-
+<!-- Links are not correct and one more certificate to add -->
 1. <strong>Intro to TensorFlow for AI, ML, DL</strong> <a href="https://coursera.org/verify/8UUWPMBYT8AD"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow"></a>
 2. <strong>Google Cloud Platform Fundamentals</strong> <a href="https://coursera.org/verify/NWM8XLAA5CBQ"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat-square" alt="Google Cloud"></a>
 3. <strong>Responsive Web Design Certification</strong> <a href="https://freecodecamp.org/certification/divyam16/responsive-web-design"><img src="https://img.shields.io/badge/Responsive%20Web%20Design-0A0A0A?logo=freecodecamp&logoColor=white&style=flat-square" alt="Responsive Web Design"></a>
@@ -51,7 +52,7 @@ I'm a passionate Computer Science graduate student at The University of Texas at
 
 I'm always open to discussing tech, sharing knowledge, and exploring new opportunities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/divyam-prajapati) or check out my [portfolio](https://divyam-prajapati-portfolio.vercel.app/) for more details on my projects and experiences.
 
-<img src="https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/Footer.jpeg" width="1080">
+<img src="https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/Footer.jpeg" width="720">
 <!--
 - 💼 [LinkedIn](https://www.linkedin.com/in/divyam-prajapati)
 - 🌐 [Portfolio](https://divyam-prajapati-portfolio.vercel.app/)
