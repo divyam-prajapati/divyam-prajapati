@@ -42,7 +42,7 @@ I'm a passionate Computer Science graduate student at The University of Texas at
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyam-prajapati)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyam-prajapati&theme=graywhite&show_icons=true)
 
 ## 🏅 Certifications
 <!-- Links are not correct and one more certificate to add -->
