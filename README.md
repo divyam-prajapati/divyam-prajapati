@@ -1,6 +1,6 @@
 # Hello, world! 👋, I'm ```DIVYAM PRAJAPATI```
-<!-- Change the banner -->
-![Profile Banner Image](https://github.com/divyam-prajapati/divyam-prajapati/blob/main/Banner.jpeg?raw=true)
+
+![Profile Banner Image](https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/images/Banner.png)
 
 ## 🚀 About Me 
 <!-- Change the intro text -->
@@ -52,9 +52,11 @@ I'm a passionate Computer Science graduate student at The University of Texas at
 
 I'm always open to discussing tech, sharing knowledge, and exploring new opportunities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/divyam-prajapati) or check out my [portfolio](https://divyam-prajapati-portfolio.vercel.app/) for more details on my projects and experiences.
 
-<img src="https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/Footer.jpeg" width="720">
-<!--
-- 💼 [LinkedIn](https://www.linkedin.com/in/divyam-prajapati)
-- 🌐 [Portfolio](https://divyam-prajapati-portfolio.vercel.app/)
-Add Social Icons
--->
+![[1.LinkedIN](https://raw.githubusercontent.com/divyam-prajapati/social-icons/master/PNG/Color/LinkedIN.png)](https://www.linkedin.com/in/divyam-prajapati/)
+![[2.Gmail](https://raw.githubusercontent.com/divyam-prajapati/social-icons/master/PNG/Color/Gmail.png)](divyambp@gmail.com)
+![[3.Website](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Emoji_u1f310.svg/180px-Emoji_u1f310.svg.png)](https://divyam-prajapati-portfolio.vercel.app/)
+![[4.Discord](https://raw.githubusercontent.com/divyam-prajapati/social-icons/master/PNG/Color/Discord.png)](ParZivaL-16#5829)
+![[5.Instagram](https://raw.githubusercontent.com/divyam-prajapati/social-icons/master/PNG/Color/Instagram.png)](https://www.instagram.com/divyam_prajapati/)
+
+
+![Linkedin Banner Image Footer](https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/images/LinkedinBanner.jpeg)
