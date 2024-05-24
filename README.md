@@ -52,10 +52,14 @@ I'm a passionate Computer Science graduate student at The University of Texas at
 
 I'm always open to discussing tech, sharing knowledge, and exploring new opportunities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/divyam-prajapati) or check out my [portfolio](https://divyam-prajapati-portfolio.vercel.app/) for more details on my projects and experiences.
 
-<a href=”https://www.linkedin.com/in/divyam-prajapati/"><img align=”left” src=”https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/images/Linkedin.png" alt=”icon | LinkedIn” width=”24px”/></a>
-<a href=”mailto:divyambp@gmail.com"><img align=”left” src=”https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/images/Gmail.png" alt=”icon | Mail” width=”24px”/></a>
-<a href=”https://divyam-prajapati-portfolio.vercel.app/"><img align=”left” src=”https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/images/Website.png" alt=”icon | Website” width=”24px”/></a>
-<a href=”https://discordapp.com/users/ParZivaL-16#5829/"><img align=”left” src=”https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/images/Discord.png" alt=”icon | Discord” width=”24px”/></a>
-<a href=”https://www.instagram.com/divyam_prajapati/"><img align=”left” src=”https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/images/Instagram.png" alt=”icon | Instagram” width=”24px”/></a>
+
+
+
+<a href="https://www.linkedin.com/in/divyam-prajapati/"><img align="left" src="https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/images/Linkedin.png" alt="icon | LinkedIn" width="24px"/></a>
+<a href="mailto:divyambp@gmail.com"><img align="left" src="https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/images/Gmail.png" alt="icon | Mail" width="24px"/></a>
+<a href="https://divyam-prajapati-portfolio.vercel.app/"><img align="left" src="https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/images/Website.png" alt="icon | Website" width="24px"/></a>
+<a href="https://discordapp.com/users/ParZivaL-16#5829/"><img align="left" src="https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/images/Discord.png" alt="icon | Discord" width="24px"/></a>
+<a href="https://www.instagram.com/divyam_prajapati/"><img align="left" src="https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/images/Instagram.png" alt="icon | Instagram" width="24px"/></a>
+<br>
 
 ![Linkedin Banner Image Footer](https://raw.githubusercontent.com/divyam-prajapati/divyam-prajapati/main/images/LinkedinBanner.jpeg)
