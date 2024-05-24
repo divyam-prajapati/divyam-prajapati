@@ -41,6 +41,9 @@ I'm a passionate Computer Science graduate student at The University of Texas at
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat)
 
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyam-prajapati)
+
 ## 🏅 Certifications
 <!-- Links are not correct and one more certificate to add -->
 1. <strong>Intro to TensorFlow for AI, ML, DL</strong> <a href="https://coursera.org/verify/8UUWPMBYT8AD"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow"></a>
