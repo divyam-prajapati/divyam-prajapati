@@ -54,7 +54,7 @@ I'm a passionate Computer Science graduate student at The University of Texas at
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat)
-![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=white&style=flat)
+![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black&style=flat)
 ![Unreal Engine](https://img.shields.io/badge/-UnrealEngine-0E1128?logo=unrealengine&logoColor=white&style=flat)
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-FF61F6?logo=adobexd&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
@@ -64,11 +64,11 @@ I'm a passionate Computer Science graduate student at The University of Texas at
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyam-prajapati&theme=dark&show_icons=true)
 
 ## 🏅 Certifications
-1. ![Intro to TensorFlow for AI, ML, DL](https://www.coursera.org/account/accomplishments/certificate/NEP3LTLUAXMF)
-2. ![Google Cloud Platform Fundamentals: Core Infrastructure](http://coursera.org/verify/8UUWPMBYT8AD)
-3. ![Responsive Web Design](https://freecodecamp.org/certification/divyam16/responsive-web-design)
-4. ![Python Basics](http://coursera.org/verify/NWM8XLAA5CBQ)
-5. ![Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/C39Q9W9LJ4YY)
+1. [Intro to TensorFlow for AI, ML, DL](https://www.coursera.org/account/accomplishments/certificate/NEP3LTLUAXMF)
+2. [Google Cloud Platform Fundamentals: Core Infrastructure](http://coursera.org/verify/8UUWPMBYT8AD)
+3. [Responsive Web Design](https://freecodecamp.org/certification/divyam16/responsive-web-design)
+4. [Python Basics](http://coursera.org/verify/NWM8XLAA5CBQ)
+5. [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/C39Q9W9LJ4YY)
 
 ## Let's Connect!
 
